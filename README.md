@@ -1,2 +1,1 @@
-# odin-recipes
-HTML practice for Odin Project Recipes Assignment
+So the project is to practice HTML, and we have to make a website for recipes or something. 
